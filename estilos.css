@@ -1,0 +1,15 @@
+.barra{
+    background: #ff3019;
+    clear: both;
+    height: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    padding: 6px;
+    border-radius: 4px;
+    max-width: 356px;
+    min-width: 20px;
+}
+ 
+/* A partir de aqui es solo cosmetico, lo puedes borrar */
+ 
